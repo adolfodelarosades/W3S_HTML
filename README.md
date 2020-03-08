@@ -1,6 +1,7 @@
 # HTML Tutorial
 
-* HTML HOME
+## HTML HOME
+
 * HTML Introduction
 * HTML Editors
 * HTML Basic
@@ -37,7 +38,7 @@
 * HTML XHTML
 * HTML Style Guide
 
-# HTML Forms
+## HTML Forms
 
 * HTML Forms
 * HTML Form Elements
@@ -45,12 +46,12 @@
 * HTML Input Attributes
 * HTML Input Form Attributes
 
-# HTML Graphics
+## HTML Graphics
 
 * HTML Canvas
 * HTML SVG
 
-# HTML Media
+## HTML Media
 
 * HTML Media
 * HTML Video
@@ -58,14 +59,15 @@
 * HTML Plug-ins
 * HTML YouTube
 
-* HTML APIs
+## HTML APIs
+
 * HTML Geolocation
 * HTML Drag/Drop
 * HTML Web Storage
 * HTML Web Workers
 * HTML SSE
 
-# HTML Examples
+## HTML Examples
 
 * HTML Examples
 * HTML Quiz
@@ -74,7 +76,7 @@
 * HTML Summary
 * HTML Accessibility
 
-# HTML References
+## HTML References
 
 * HTML Tag List
 * HTML Attributes
